@@ -9,7 +9,10 @@ WorldHvH.Asia免费公开1155服务器整合包
 如有技术支援需求，请添加我的QQ:3148912176 或发送Mail给我的邮箱:ssqls@foxmail.com
 
 ## 开始搭建
-首先，我们先下载并解压开服包（我会放在Github项目下面/大陆用户也可以用我的下载站下载：download.imqfy.qpon/kaifu.zip）
+首先，我们先下载并解压开服包
+下载开服包方式：
+123盘：https://www.123684.com/s/UzIVVv-62pY
+我的个人网盘：http://download.imqfy.qpon/kaifu.zip
 
 在数据盘创建一个文件夹(名字随意，但是不能使用中文)
 
@@ -24,4 +27,17 @@ WorldHvH.Asia免费公开1155服务器整合包
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/c1b0da4a-d4d9-4b2a-8f01-83ff65dd18f4" />
 
 直到出现这样我们再进行下一步
+
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/7a5feab2-f06e-4454-a271-cd4957c7a1e6" />
+
+我们输入 "login anonymous" 进行匿名登录
+
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/85dd6ea4-8d2d-4273-ae61-b32b3d8b5257" />
+
+然后我们再输入 "app_update 740 validate" 下载我们的CS:GO服务端
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40378fbe-9d3d-4a81-aa7f-ed4827fd1227" />
+
+当显示这样的时候，说明我们的服务端已经下载完毕
+
 
