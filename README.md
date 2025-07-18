@@ -57,6 +57,7 @@ WorldHvH.Asia免费公开1155服务器整合包
 当出现这个我们就可以直接用ip进服了
 
 <img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/55ab5c79-f506-4029-8e43-450088302778" />
+<img width="1920" height="1080" alt="114514" src="https://github.com/user-attachments/assets/a54986f6-b5bc-4447-87d9-6d81cfdd97eb" />
 
 ## 更改服务器名字/添加密码
 
