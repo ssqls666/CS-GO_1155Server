@@ -40,4 +40,29 @@ WorldHvH.Asia免费公开1155服务器整合包
 
 当显示这样的时候，说明我们的服务端已经下载完毕
 
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/d97ce811-e508-4f7a-857c-64b183d40a3e" />
+
+这时候我们再去把(插件包在开服包里面有)插件包里面的 "addone"和"cfg"文件夹 解压并放到 \steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\csgo 里面
+
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/9e64866f-f0be-4229-a650-09838400939f" />
+
+我们再把开服包里面的 "server.cfg" 放到 \steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\csgo\cfg 里面
+
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/22bdfa4f-4cb4-476e-9a11-833159ffb310" />
+
+这时候我们把开服包里面的 "start.bat" 放到 \steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\ 里面,并双击执行
+
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/6973f360-e97e-496b-aca7-c563d6e083af" />
+
+当出现这个我们就可以直接用ip进服了
+
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/55ab5c79-f506-4029-8e43-450088302778" />
+
+
+## 疑难杂症/常见问题
+
+#一直连接不进去怎么办
+
+
+
 
