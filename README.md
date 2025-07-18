@@ -58,11 +58,44 @@ WorldHvH.Asia免费公开1155服务器整合包
 
 <img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/55ab5c79-f506-4029-8e43-450088302778" />
 
+## 更改服务器名字/添加密码
 
-## 疑难杂症/常见问题
+我们可以在 \steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\csgo\cfg\server.cfg 里面更改我们想要的
+格式如图所示(更改完后记得重启服务器)
+<img width="1920" height="1080" alt="143" src="https://github.com/user-attachments/assets/7325aeab-135a-4694-8855-02629ff968b1" />
 
-###一直连接不进去怎么办
+## 添加服务器管理员
 
+我们打开 \steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\csgo\addons\sourcemod\configs\admins_simple.ini
+然后如图所示(steamid不是你的用户名或你的64,解析可以去 "steamid.io" )
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/080ddfaa-303b-401b-aa0c-67717aad2cb3" />
+添加完后重启服务器就可以了
 
+## 下面疑难杂症/常见问题
 
+#一直连接不进去怎么办
 
+<img width="421" height="148" alt="10" src="https://github.com/user-attachments/assets/17e22d44-c059-4f8e-ad18-5a4cb2ef3982" />
+
+要么是你买的服务器没有ipv4独立ip（共享ip也不行）
+那只能重新买台服务器
+
+要么是你没有开放UDP协议
+
+我们先打开控制面板，然后按着下面的图操作就行了
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/a46d38ac-d7b3-43f1-a171-73a53b1dcf9a" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/339ab344-0c2b-4f59-b465-e2d08087f761" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/c03aa9d6-8d72-47cc-b99e-1c8ceb889413" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/7cb67017-71e1-4522-a012-eba927f82a40" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/63af5d5a-0038-4434-8858-6c7a7ad49d28" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/39bebcdc-b9a0-4964-8216-c933a685965c" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/3be05bfd-5e3a-445f-a8a4-a11ae6306ad3" />
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/c436aec7-551f-4c57-925a-b29cb74b7b4e" />
+<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/fcfe0d94-6566-4a06-a166-4de8c575429a" />
+<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/00983e05-4704-424f-9010-c52f43cab7e4" />
+
+## 结尾
+
+如果你觉得本期教程超级有用，那不妨施舍一点吧QwQ (bushi 
+<img width="1037" height="1037" alt="1" src="https://github.com/user-attachments/assets/5af16773-1426-4e8a-b642-81f0d12c272d" />
