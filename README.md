@@ -13,4 +13,15 @@ WorldHvH.Asia免费公开1155服务器整合包
 
 在数据盘创建一个文件夹(名字随意，但是不能使用中文)
 
-![Uploading yp.png…]()
+<img width="1920" height="1080" alt="yp" src="https://github.com/user-attachments/assets/33a26e47-0f2b-4b71-977d-2254b7bee550" />
+
+然后我们解压开服包里面的 steamcmd 并剪切到我们刚创建好的文件夹里面
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/33d41397-e1d4-4342-bd5d-d772cd8acfb5" />
+
+然后我们双击运行steamcmd
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/c1b0da4a-d4d9-4b2a-8f01-83ff65dd18f4" />
+
+直到出现这样我们再进行下一步
+
