@@ -6,6 +6,7 @@ WorldHvH.Asia免费公开1155服务器整合包
 
 ## 提示
 此教程适用于搭载Windows Server的服务器
+如需Linux版请前往:https://github.com/ssqls666/CS-GO_1155Server_Linux
 如有技术支援需求，请添加我的QQ:3148912176 或发送Mail给我的邮箱:ssqls@foxmail.com
 
 ## 开始搭建
