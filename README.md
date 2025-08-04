@@ -1,5 +1,9 @@
 WorldHvH.Asia免费公开1155服务器整合包
 
+## 前景提要
+如果你觉得很麻烦，可以使用 Open_Game_Server 实现一键开服（Linux版已经在开发中）,不要再花冤枉钱去找代搭
+项目链接:https://github.com/ssqls666/Open_Game_Server/
+
 ## 配置需求
 最低需求:2v核心4GB内存 40Gb可用空间 20Mbps网络带宽 Ipv4公网ip一个 UDP端口正常开放
 推荐需求:8v核心16GB内存 60Gb可用空间 100Mbps网络带宽 Ipv4公网ip一个 UDP端口正常开放
