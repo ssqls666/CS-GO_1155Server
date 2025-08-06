@@ -47,7 +47,7 @@ WorldHvH.Asia免费公开1155服务器整合包
 
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/d97ce811-e508-4f7a-857c-64b183d40a3e" />
 
-这时候我们再去把(插件包在开服包里面有)插件包里面的 "addone"和"cfg"文件夹 解压并放到 \steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\csgo 里面
+这时候我们再去把(插件包在开服包里面有)插件包里面的 "addons"和"cfg"文件夹 解压并放到 \steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server\csgo 里面
 
 <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/9e64866f-f0be-4229-a650-09838400939f" />
 
