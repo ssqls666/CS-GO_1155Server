@@ -16,6 +16,7 @@ WorldHvH.Asia免费公开1155服务器整合包
 ## 开始搭建
 首先，我们先下载并解压开服包
 下载开服包方式：
+QQ群文件:580106758
 123盘：https://www.123684.com/s/UzIVVv-62pY
 我的个人网盘：http://download.imqfy.qpon/kaifu.zip
 
